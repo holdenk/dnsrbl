@@ -2,7 +2,7 @@
 >import Distribution.Simple
 >import Distribution.Simple
 >import Distribution.PackageDescription(PackageDescription,dataFiles)
->import Distribution.Simple.LocalBuildInfo(LocalBuildInfo,srcPref)
+>import Distribution.Simple.LocalBuildInfo(LocalBuildInfo)
 >import System.Cmd(system)
 >import Distribution.Simple.LocalBuildInfo
 >import System.IO(FilePath)
